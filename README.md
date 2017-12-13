@@ -9,3 +9,6 @@
 #### Task 02
 0. [What is Version Control](https://classroom.udacity.com/courses/ud123/)
 1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+
+#### Task 03
+[Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
