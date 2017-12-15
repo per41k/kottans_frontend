@@ -12,3 +12,6 @@
 
 #### Task 03
 [Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+
+#### Task 04
+[Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
